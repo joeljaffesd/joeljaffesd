@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeljaffesd
-- 👀 I’m interested in DSP for Electric Instruments 🎸 and Interactive Audio-Visual Media 🛤️
+- 👀 I’m interested in Audio DSP 🎸 and Interactive Multimedia 🔮
 - 🌱 I’m currently learning C++, Python, Bash scripting and Linux
 - 📫 Say hi! joel@jaffesd.com
 
